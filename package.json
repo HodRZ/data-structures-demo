@@ -1,0 +1,23 @@
+{
+  "name": "data-structures-demo",
+  "version": "1.0.0",
+  "description": "a repo containing demos for a collection of data structrues",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HodRZ/data-structures-demo.git"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "jest": "^29.0.2"
+  },
+  "author": "Hodaifa Zawahreh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HodRZ/data-structures-demo/issues"
+  },
+  "homepage": "https://github.com/HodRZ/data-structures-demo#readme"
+}
