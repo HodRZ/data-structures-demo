@@ -1,6 +1,6 @@
 'use strict'
 
-const { SinglyLinkedList } = require('./../modules/List.js');
+const { SinglyLinkedList } = require('../src/linked-list/List.js');
 
 describe('List Proof of Life', () => {
     it('should create a list', () => {

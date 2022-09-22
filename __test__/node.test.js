@@ -1,6 +1,6 @@
 'use strict'
 
-const { Node } = require('./../modules/Node.js')
+const { Node } = require('../src/linked-list/Node.js')
 
 describe('test the node module', () => {
     it('creates a node that contains data', () => {
