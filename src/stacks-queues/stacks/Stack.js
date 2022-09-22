@@ -29,7 +29,6 @@ class Stack {
         oldTop.next = null;
         this.size--;
         return oldTop.val;
-
     }
     peek() {
         if (this.size === 0) return 'Stack is empty'
